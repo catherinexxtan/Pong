@@ -1,0 +1,336 @@
+cs1302-omega/:
+total 80
+-rw-r--r--. 1 myid  6658 Dec  3 13:27 APPENDIX_API.rst
+-rw-r--r--. 1 myid  3049 Dec  3 13:27 APPENDIX_GAME.rst
+-rw-r--r--. 1 myid  4205 Dec  3 13:27 APPENDIX_GIT.rst
+-rwxr-xr-x. 1 myid   217 Dec 11 12:59 compile.sh
+drwxr-xr-x. 2 myid    59 Dec 11 13:11 meta
+-rw-r--r--. 1 myid  7620 Dec 11 23:57 pom.xml
+-rwxr-xr-x. 1 myid   105 Dec  3 13:27 prepare-merge.sh
+-rw-r--r--. 1 myid 29510 Dec  3 13:27 README.rst
+-rw-r--r--. 1 myid  4685 Dec 11 13:16 rec10053
+-rw-r--r--. 1 myid     0 Dec 12 00:05 rec8996
+drwxr-xr-x. 3 myid    97 Dec  3 13:27 resources
+-rwxr-xr-x. 1 myid   271 Dec  3 13:27 site.sh
+drwxr-xr-x. 4 myid    42 Dec  3 13:27 src
+drwxr-xr-x. 7 myid   132 Dec 11 14:13 target
+
+cs1302-omega/meta:
+total 8
+-rw-r--r--. 1 myid  509 Dec 11 11:59 ATTRIBUTION.md
+-rw-r--r--. 1 myid 1889 Dec 11 13:11 DEADLINE.md
+
+cs1302-omega/resources:
+total 2084
+-rw-r--r--. 1 myid      41 Dec  3 13:27 config.properties
+-rw-r--r--. 1 myid  582183 Dec  3 13:27 readme-banner.png
+-rw-r--r--. 1 myid 1540930 Dec  3 13:27 readme-newrepo.png
+drwxr-xr-x. 2 myid      26 Dec 11 12:59 sprites
+
+cs1302-omega/resources/sprites:
+total 4
+-rw-r--r--. 1 myid 781 Dec  3 13:27 cat_idle.gif
+
+cs1302-omega/src:
+total 0
+drwxr-xr-x. 3 myid 26 Dec  3 13:27 main
+drwxr-xr-x. 3 myid 50 Dec  3 13:27 site
+
+cs1302-omega/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Dec  3 13:27 java
+
+cs1302-omega/src/main/java:
+total 4
+drwxr-xr-x. 5 myid  58 Dec  3 13:27 cs1302
+-rw-r--r--. 1 myid 425 Dec  3 13:27 module-info.java
+
+cs1302-omega/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid  81 Dec  3 13:27 api
+drwxr-xr-x. 2 myid 101 Dec 11 12:58 game
+drwxr-xr-x. 2 myid  51 Dec  3 13:27 omega
+
+cs1302-omega/src/main/java/cs1302/api:
+total 12
+-rw-r--r--. 1 myid 4332 Dec  3 13:27 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid 1670 Dec  3 13:27 PropertiesExample.java
+
+cs1302-omega/src/main/java/cs1302/game:
+total 24
+-rw-r--r--. 1 myid 3303 Dec  5 10:22 DemoGame.java
+-rw-r--r--. 1 myid 5248 Dec  3 13:27 Game.java
+-rw-r--r--. 1 myid 1405 Dec  3 13:27 IdleCat.java
+-rw-r--r--. 1 myid 7347 Dec 10 23:49 Pong.java
+
+cs1302-omega/src/main/java/cs1302/omega:
+total 8
+-rw-r--r--. 1 myid 1733 Dec  3 13:27 OmegaApp.java
+-rw-r--r--. 1 myid 1295 Dec  3 13:27 OmegaDriver.java
+
+cs1302-omega/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Dec  3 13:27 markdown
+-rw-r--r--. 1 myid 424 Dec  3 13:27 site.xml
+
+cs1302-omega/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Dec  3 13:27 index.md.vm
+
+cs1302-omega/target:
+total 0
+drwxr-xr-x. 4 myid 164 Dec 11 14:13 classes
+drwxr-xr-x. 3 myid  33 Dec 11 14:13 generated-sources
+drwxr-xr-x. 2 myid  59 Dec 11 14:13 javadoc-bundle-options
+drwxr-xr-x. 3 myid  43 Dec 11 14:13 maven-status
+drwxr-xr-x. 8 myid 214 Dec 11 14:13 site
+
+cs1302-omega/target/classes:
+total 2088
+-rw-r--r--. 1 myid      41 Dec 11 14:13 config.properties
+drwxr-xr-x. 5 myid      58 Dec 11 14:13 cs1302
+-rw-r--r--. 1 myid     400 Dec 11 14:13 module-info.class
+-rw-r--r--. 1 myid  582183 Dec 11 14:13 readme-banner.png
+-rw-r--r--. 1 myid 1540930 Dec 11 14:13 readme-newrepo.png
+drwxr-xr-x. 2 myid      34 Dec 11 14:13 sprites
+
+cs1302-omega/target/classes/cs1302:
+total 0
+drwxr-xr-x. 2 myid 192 Dec 11 14:13 api
+drwxr-xr-x. 2 myid 105 Dec 11 14:13 game
+drwxr-xr-x. 2 myid  65 Dec 11 14:13 omega
+
+cs1302-omega/target/classes/cs1302/api:
+total 20
+-rw-r--r--. 1 myid 5993 Dec 11 14:13 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid  493 Dec 11 14:13 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid  617 Dec 11 14:13 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid 1680 Dec 11 14:13 PropertiesExample.class
+
+cs1302-omega/target/classes/cs1302/game:
+total 24
+-rw-r--r--. 1 myid 3425 Dec 11 14:13 DemoGame.class
+-rw-r--r--. 1 myid 4560 Dec 11 14:13 Game.class
+-rw-r--r--. 1 myid 1258 Dec 11 14:13 IdleCat.class
+-rw-r--r--. 1 myid 6677 Dec 11 14:13 Pong.class
+
+cs1302-omega/target/classes/cs1302/omega:
+total 8
+-rw-r--r--. 1 myid 2488 Dec 11 14:13 OmegaApp.class
+-rw-r--r--. 1 myid 1517 Dec 11 14:13 OmegaDriver.class
+
+cs1302-omega/target/classes/sprites:
+total 4
+-rw-r--r--. 1 myid 781 Dec 11 14:13 cat_idle.gif
+
+cs1302-omega/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Dec 11 14:13 annotations
+
+cs1302-omega/target/generated-sources/annotations:
+total 0
+
+cs1302-omega/target/javadoc-bundle-options:
+total 4
+-rw-r--r--. 1 myid 424 Dec 11 14:13 javadoc-options-javadoc-resources.xml
+
+cs1302-omega/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Dec 11 14:13 maven-compiler-plugin
+
+cs1302-omega/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Dec 11 14:13 compile
+
+cs1302-omega/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Dec 11 14:13 default-compile
+
+cs1302-omega/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 358 Dec 11 14:13 createdFiles.lst
+-rw-r--r--. 1 myid 654 Dec 11 14:13 inputFiles.lst
+
+cs1302-omega/target/site:
+total 52
+drwxr-xr-x. 7 myid  4096 Dec 11 14:13 apidocs
+drwxr-xr-x. 2 myid    94 Dec 11 14:13 css
+drwxr-xr-x. 2 myid   187 Dec 11 14:13 fonts
+drwxr-xr-x. 4 myid  4096 Dec 11 14:13 images
+drwxr-xr-x. 2 myid    88 Dec 11 14:13 img
+-rw-r--r--. 1 myid  3565 Dec 11 14:13 index.html
+drwxr-xr-x. 2 myid    52 Dec 11 14:13 js
+-rw-r--r--. 1 myid 23149 Dec 11 14:13 license.html
+-rw-r--r--. 1 myid  4606 Dec 11 14:13 source-repository.html
+-rw-r--r--. 1 myid  5936 Dec 11 14:13 team-list.html
+
+cs1302-omega/target/site/apidocs:
+total 140
+-rw-r--r--. 1 myid  5864 Dec 11 14:13 allclasses-index.html
+-rw-r--r--. 1 myid  3212 Dec 11 14:13 allpackages-index.html
+-rw-r--r--. 1 myid    64 Dec 11 14:13 argfile
+drwxr-xr-x. 3 myid    59 Dec 11 14:13 cs1302.omega
+-rw-r--r--. 1 myid    56 Dec 11 14:13 element-list
+-rw-r--r--. 1 myid  9418 Dec 11 14:13 help-doc.html
+-rw-r--r--. 1 myid 18725 Dec 11 14:13 index-all.html
+-rw-r--r--. 1 myid  1026 Dec 11 14:13 index.html
+-rwxr-xr-x. 1 myid    69 Dec 11 14:13 javadoc.sh
+-rw-r--r--. 1 myid   501 Dec 11 14:13 jquery-ui.overrides.css
+drwxr-xr-x. 2 myid    94 Dec 11 14:13 legal
+-rw-r--r--. 1 myid  2634 Dec 11 14:13 member-search-index.js
+-rw-r--r--. 1 myid    65 Dec 11 14:13 module-search-index.js
+-rw-r--r--. 1 myid  3478 Dec 11 14:13 options
+-rw-r--r--. 1 myid  4661 Dec 11 14:13 overview-tree.html
+-rw-r--r--. 1 myid    95 Dec 11 14:13 packages
+-rw-r--r--. 1 myid   212 Dec 11 14:13 package-search-index.js
+drwxr-xr-x. 2 myid    48 Dec 11 14:13 resources
+drwxr-xr-x. 2 myid    98 Dec 11 14:13 script-dir
+-rw-r--r--. 1 myid  4030 Dec 11 14:13 script.js
+-rw-r--r--. 1 myid 12745 Dec 11 14:13 search.js
+drwxr-xr-x. 3 myid    34 Dec 11 14:13 src
+-rw-r--r--. 1 myid 18717 Dec 11 14:13 stylesheet.css
+-rw-r--r--. 1 myid    42 Dec 11 14:13 tag-search-index.js
+-rw-r--r--. 1 myid   400 Dec 11 14:13 type-search-index.js
+
+cs1302-omega/target/site/apidocs/cs1302.omega:
+total 8
+drwxr-xr-x. 5 myid   58 Dec 11 14:13 cs1302
+-rw-r--r--. 1 myid 4296 Dec 11 14:13 module-summary.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302:
+total 0
+drwxr-xr-x. 3 myid 163 Dec 11 14:13 api
+drwxr-xr-x. 3 myid 211 Dec 11 14:13 game
+drwxr-xr-x. 3 myid 173 Dec 11 14:13 omega
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/api:
+total 44
+drwxr-xr-x. 2 myid    69 Dec 11 14:13 class-use
+-rw-r--r--. 1 myid 15377 Dec 11 14:13 OpenLibrarySearchApi.html
+-rw-r--r--. 1 myid  4474 Dec 11 14:13 package-summary.html
+-rw-r--r--. 1 myid  3391 Dec 11 14:13 package-tree.html
+-rw-r--r--. 1 myid  2699 Dec 11 14:13 package-use.html
+-rw-r--r--. 1 myid 11357 Dec 11 14:13 PropertiesExample.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/api/class-use:
+total 8
+-rw-r--r--. 1 myid 2909 Dec 11 14:13 OpenLibrarySearchApi.html
+-rw-r--r--. 1 myid 2891 Dec 11 14:13 PropertiesExample.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/game:
+total 112
+drwxr-xr-x. 2 myid   101 Dec 11 14:13 class-use
+-rw-r--r--. 1 myid 23843 Dec 11 14:13 DemoGame.html
+-rw-r--r--. 1 myid 32546 Dec 11 14:13 Game.html
+-rw-r--r--. 1 myid 19583 Dec 11 14:13 IdleCat.html
+-rw-r--r--. 1 myid  4531 Dec 11 14:13 package-summary.html
+-rw-r--r--. 1 myid  3965 Dec 11 14:13 package-tree.html
+-rw-r--r--. 1 myid  3728 Dec 11 14:13 package-use.html
+-rw-r--r--. 1 myid 20110 Dec 11 14:13 Pong.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/game/class-use:
+total 20
+-rw-r--r--. 1 myid 2843 Dec 11 14:13 DemoGame.html
+-rw-r--r--. 1 myid 4988 Dec 11 14:13 Game.html
+-rw-r--r--. 1 myid 2837 Dec 11 14:13 IdleCat.html
+-rw-r--r--. 1 myid 2819 Dec 11 14:13 Pong.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/omega:
+total 36
+drwxr-xr-x. 2 myid    63 Dec 11 14:13 class-use
+-rw-r--r--. 1 myid 11672 Dec 11 14:13 OmegaApp.html
+-rw-r--r--. 1 myid 10767 Dec 11 14:13 OmegaDriver.html
+-rw-r--r--. 1 myid  4014 Dec 11 14:13 package-summary.html
+-rw-r--r--. 1 myid  3436 Dec 11 14:13 package-tree.html
+-rw-r--r--. 1 myid  2709 Dec 11 14:13 package-use.html
+
+cs1302-omega/target/site/apidocs/cs1302.omega/cs1302/omega/class-use:
+total 8
+-rw-r--r--. 1 myid 2849 Dec 11 14:13 OmegaApp.html
+-rw-r--r--. 1 myid 2867 Dec 11 14:13 OmegaDriver.html
+
+cs1302-omega/target/site/apidocs/legal:
+total 20
+-rw-r--r--. 1 myid 3244 Dec 11 14:13 COPYRIGHT
+-rw-r--r--. 1 myid 2936 Dec 11 14:13 jquery.md
+-rw-r--r--. 1 myid 1870 Dec 11 14:13 jqueryUI.md
+-rw-r--r--. 1 myid 6186 Dec 11 14:13 LICENSE
+
+cs1302-omega/target/site/apidocs/resources:
+total 8
+-rw-r--r--. 1 myid 499 Dec 11 14:13 glass.png
+-rw-r--r--. 1 myid 394 Dec 11 14:13 x.png
+
+cs1302-omega/target/site/apidocs/script-dir:
+total 124
+-rw-r--r--. 1 myid 89501 Dec 11 14:13 jquery-3.6.0.min.js
+-rw-r--r--. 1 myid  1842 Dec 11 14:13 jquery-ui.min.css
+-rw-r--r--. 1 myid 32680 Dec 11 14:13 jquery-ui.min.js
+
+cs1302-omega/target/site/apidocs/src:
+total 0
+drwxr-xr-x. 2 myid 10 Dec 11 14:13 cs1302.omega
+
+cs1302-omega/target/site/apidocs/src/cs1302.omega:
+total 0
+
+cs1302-omega/target/site/css:
+total 132
+-rw-r--r--. 1 myid 126090 Dec 11 14:13 apache-maven-fluido-1.8.min.css
+-rw-r--r--. 1 myid   1037 Dec 11 14:13 print.css
+-rw-r--r--. 1 myid     53 Dec 11 14:13 site.css
+
+cs1302-omega/target/site/fonts:
+total 200
+-rw-r--r--. 1 myid 35691 Dec 11 14:13 glyphicons-halflings-regular.eot
+-rw-r--r--. 1 myid 63078 Dec 11 14:13 glyphicons-halflings-regular.svg
+-rw-r--r--. 1 myid 55383 Dec 11 14:13 glyphicons-halflings-regular.ttf
+-rw-r--r--. 1 myid 42340 Dec 11 14:13 glyphicons-halflings-regular.woff
+
+cs1302-omega/target/site/images:
+total 124
+-rw-r--r--. 1 myid   746 Dec 11 14:13 accessories-text-editor.png
+-rw-r--r--. 1 myid   397 Dec 11 14:13 add.gif
+-rw-r--r--. 1 myid 43073 Dec 11 14:13 apache-maven-project-2.png
+-rw-r--r--. 1 myid   923 Dec 11 14:13 application-certificate.png
+-rw-r--r--. 1 myid   736 Dec 11 14:13 contact-new.png
+-rw-r--r--. 1 myid   577 Dec 11 14:13 document-properties.png
+-rw-r--r--. 1 myid   700 Dec 11 14:13 drive-harddisk.png
+-rw-r--r--. 1 myid   366 Dec 11 14:13 fix.gif
+-rw-r--r--. 1 myid   633 Dec 11 14:13 icon_error_sml.gif
+-rw-r--r--. 1 myid  1072 Dec 11 14:13 icon_help_sml.gif
+-rw-r--r--. 1 myid   638 Dec 11 14:13 icon_info_sml.gif
+-rw-r--r--. 1 myid   604 Dec 11 14:13 icon_success_sml.gif
+-rw-r--r--. 1 myid   625 Dec 11 14:13 icon_warning_sml.gif
+-rw-r--r--. 1 myid   662 Dec 11 14:13 image-x-generic.png
+-rw-r--r--. 1 myid  1017 Dec 11 14:13 internet-web-browser.png
+drwxr-xr-x. 2 myid   111 Dec 11 14:13 logos
+-rw-r--r--. 1 myid   536 Dec 11 14:13 network-server.png
+-rw-r--r--. 1 myid   717 Dec 11 14:13 package-x-generic.png
+drwxr-xr-x. 2 myid    83 Dec 11 14:13 profiles
+-rw-r--r--. 1 myid   607 Dec 11 14:13 remove.gif
+-rw-r--r--. 1 myid   474 Dec 11 14:13 rss.png
+-rw-r--r--. 1 myid  1090 Dec 11 14:13 update.gif
+-rw-r--r--. 1 myid   583 Dec 11 14:13 window-new.png
+
+cs1302-omega/target/site/images/logos:
+total 12
+-rw-r--r--. 1 myid 2294 Dec 11 14:13 build-by-maven-black.png
+-rw-r--r--. 1 myid 2260 Dec 11 14:13 build-by-maven-white.png
+-rw-r--r--. 1 myid 3330 Dec 11 14:13 maven-feather.png
+
+cs1302-omega/target/site/images/profiles:
+total 92
+-rw-r--r--. 1 myid 32607 Dec 11 14:13 pre-release.png
+-rw-r--r--. 1 myid 22003 Dec 11 14:13 retired.png
+-rw-r--r--. 1 myid 33010 Dec 11 14:13 sandbox.png
+
+cs1302-omega/target/site/img:
+total 28
+-rw-r--r--. 1 myid 12799 Dec 11 14:13 glyphicons-halflings.png
+-rw-r--r--. 1 myid  8777 Dec 11 14:13 glyphicons-halflings-white.png
+
+cs1302-omega/target/site/js:
+total 148
+-rw-r--r--. 1 myid 150483 Dec 11 14:13 apache-maven-fluido-1.8.min.js
+/home/myid/ct05899/cs1302-omega/:/home/myid/csci-1302
